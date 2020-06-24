@@ -1,0 +1,604 @@
+2020-04-28 18:37:22.963 +07:00 [DBG] Using Identity.Application as default scheme for authentication
+2020-04-28 18:37:23.034 +07:00 [DBG] Using Identity.External as default scheme for sign-in
+2020-04-28 18:37:23.037 +07:00 [DBG] Using Identity.External as default scheme for sign-out
+2020-04-28 18:37:23.039 +07:00 [DBG] Using Identity.Application as default scheme for challenge
+2020-04-28 18:37:23.040 +07:00 [DBG] Using Identity.Application as default scheme for forbid
+2020-04-28 18:37:25.048 +07:00 [DBG] Starting token cleanup
+2020-04-28 18:37:55.250 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:38:25.280 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:38:55.301 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:39:25.335 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:39:55.340 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:40:25.365 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:40:55.387 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:41:25.415 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:41:55.425 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:42:25.446 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:42:55.466 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:43:25.486 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:43:55.513 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:44:25.526 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:44:55.542 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:45:25.567 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:45:55.607 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:46:25.631 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:46:55.671 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:47:25.694 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:47:55.722 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:48:25.761 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:48:55.782 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:49:25.805 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:49:55.837 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:50:25.855 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:50:55.876 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:51:25.892 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:51:55.917 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:52:25.943 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:52:55.967 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:53:25.993 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:53:56.020 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:54:26.055 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:54:56.083 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:55:26.111 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:55:56.141 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:56:26.167 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:56:56.203 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:57:26.230 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:57:56.245 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:58:26.256 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:58:56.270 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:59:26.306 +07:00 [INF] Clearing 0 tokens
+2020-04-28 18:59:56.331 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:00:26.352 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:00:56.358 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:01:26.385 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:01:56.398 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:02:26.428 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:02:56.442 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:03:26.462 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:03:56.501 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:04:26.542 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:04:56.596 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:05:26.649 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:05:56.668 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:06:26.700 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:06:56.727 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:07:26.759 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:07:56.785 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:08:26.801 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:08:56.825 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:09:26.852 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:09:56.871 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:10:26.897 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:10:56.927 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:11:26.951 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:11:56.973 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:12:26.998 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:12:57.014 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:13:27.030 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:13:57.056 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:14:27.091 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:14:57.115 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:15:27.133 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:15:57.156 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:16:27.179 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:16:57.202 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:17:27.230 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:17:57.243 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:18:27.272 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:52.893 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:53.132 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:18:54.342 +07:00 [ERR] An unhandled exception has occurred while executing the request
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'stp_get_year_version'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Infrastructure.Data.QueryRepository.GetYearVersion() in D:\Project\OIE\OIE.Api\Infrastructure\Data\QueryRepository.cs:line 491
+   at ApplicationCore.Services.ReportService.GetAppSettingAsync() in D:\Project\OIE\OIE.Api\ApplicationCore\Services\ReportService.cs:line 44
+   at OIE.Api.Controllers.SettingController.GetFilter() in D:\Project\OIE\OIE.Api\OIE.Api\Controllers\SettingController.cs:line 35
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\IdentityServerMiddleware.cs:line 72
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:e783ea80-3223-42be-af61-18b9783bb2d2
+Error Number:2812,State:62,Class:16
+2020-04-28 19:18:57.296 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:19:20.151 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:19:20.161 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:19:20.167 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:19:27.322 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:19:57.351 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:20:27.371 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:20:44.676 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.789 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.812 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.841 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.891 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.893 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:44.902 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:20:45.256 +07:00 [ERR] An unhandled exception has occurred while executing the request
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'stp_get_year_version'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Infrastructure.Data.QueryRepository.GetYearVersion() in D:\Project\OIE\OIE.Api\Infrastructure\Data\QueryRepository.cs:line 491
+   at ApplicationCore.Services.ReportService.GetAppSettingAsync() in D:\Project\OIE\OIE.Api\ApplicationCore\Services\ReportService.cs:line 44
+   at OIE.Api.Controllers.SettingController.GetFilter() in D:\Project\OIE\OIE.Api\OIE.Api\Controllers\SettingController.cs:line 35
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\IdentityServerMiddleware.cs:line 72
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:e783ea80-3223-42be-af61-18b9783bb2d2
+Error Number:2812,State:62,Class:16
+2020-04-28 19:20:57.395 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:21:27.406 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:21:57.425 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:22:02.293 +07:00 [ERR] An unhandled exception has occurred while executing the request
+System.Data.SqlClient.SqlException (0x80131904): Could not find stored procedure 'stp_get_year_version'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   at Dapper.SqlMapper.ExecuteReaderWithFlagsFallback(IDbCommand cmd, Boolean wasClosed, CommandBehavior behavior) in C:\projects\dapper\Dapper\SqlMapper.cs:line 1053
+   at Dapper.SqlMapper.QueryImpl[T](IDbConnection cnn, CommandDefinition command, Type effectiveType)+MoveNext() in C:\projects\dapper\Dapper\SqlMapper.cs:line 1081
+   at System.Collections.Generic.List`1.AddEnumerable(IEnumerable`1 enumerable)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Dapper.SqlMapper.Query[T](IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Boolean buffered, Nullable`1 commandTimeout, Nullable`1 commandType) in C:\projects\dapper\Dapper\SqlMapper.cs:line 723
+   at Infrastructure.Data.QueryRepository.GetYearVersion() in D:\Project\OIE\OIE.Api\Infrastructure\Data\QueryRepository.cs:line 491
+   at ApplicationCore.Services.ReportService.GetAppSettingAsync() in D:\Project\OIE\OIE.Api\ApplicationCore\Services\ReportService.cs:line 44
+   at OIE.Api.Controllers.SettingController.GetFilter() in D:\Project\OIE\OIE.Api\OIE.Api\Controllers\SettingController.cs:line 35
+   at lambda_method(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.IdentityServerMiddleware.Invoke(HttpContext context, IEndpointRouter router, IUserSession session, IEventService events) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\IdentityServerMiddleware.cs:line 72
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Cors.Infrastructure.CorsMiddleware.Invoke(HttpContext context)
+   at IdentityServer4.Hosting.BaseUrlMiddleware.Invoke(HttpContext context) in C:\local\identity\server4\IdentityServer4\src\IdentityServer4\Hosting\BaseUrlMiddleware.cs:line 36
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:a9048879-8d38-4d94-a99b-da7c1ea5c91f
+Error Number:2812,State:62,Class:16
+2020-04-28 19:22:27.444 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:22:57.462 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:25:18.479 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:25:31.265 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.342 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.364 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.385 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.419 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.476 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.690 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.741 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:31.838 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:44.309 +07:00 [DBG] CORS request made for path: /api/report/2019/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:44.314 +07:00 [DBG] CORS request made for path: /api/report/4.0/2019/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:48.520 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:25:53.848 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:53.861 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:53.881 +07:00 [DBG] CORS request made for path: /api/report/countrycompareindicatorscore/2019/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:53.882 +07:00 [DBG] CORS request made for path: /api/report/2019/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:53.902 +07:00 [DBG] CORS request made for path: /api/IndustryReview/2019/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:25:54.313 +07:00 [DBG] CORS request made for path: /api/report/pillarscoregroupbyindustryandcountry/2019/6 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:18.547 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:26:29.085 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:29.088 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:29.114 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:29.116 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:29.126 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:29.225 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:34.339 +07:00 [DBG] CORS request made for path: /connect/token from origin: http://localhost:4200
+2020-04-28 19:26:34.346 +07:00 [DBG] Client list checked and origin: http://localhost:4200 is allowed
+2020-04-28 19:26:34.349 +07:00 [DBG] CorsPolicyService allowed origin: http://localhost:4200
+2020-04-28 19:26:34.353 +07:00 [DBG] Request path /connect/token matched to endpoint type Token
+2020-04-28 19:26:34.364 +07:00 [DBG] Endpoint enabled: Token, successfully created handler: IdentityServer4.Endpoints.TokenEndpoint
+2020-04-28 19:26:34.366 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.TokenEndpoint for /connect/token
+2020-04-28 19:26:34.373 +07:00 [DBG] Start token request.
+2020-04-28 19:26:34.379 +07:00 [DBG] Start client validation
+2020-04-28 19:26:34.385 +07:00 [DBG] Start parsing Basic Authentication secret
+2020-04-28 19:26:34.389 +07:00 [DBG] Start parsing for secret in post body
+2020-04-28 19:26:34.409 +07:00 [DBG] client id without secret found
+2020-04-28 19:26:34.413 +07:00 [DBG] Parser found secret: PostBodySecretParser
+2020-04-28 19:26:34.416 +07:00 [DBG] Secret id found: OIE-WEB
+2020-04-28 19:26:34.422 +07:00 [DBG] client configuration validation for client OIE-WEB succeeded.
+2020-04-28 19:26:34.424 +07:00 [DBG] Public Client - skipping secret validation success
+2020-04-28 19:26:34.425 +07:00 [DBG] Client validation success
+2020-04-28 19:26:34.434 +07:00 [DBG] Start token request validation
+2020-04-28 19:26:34.444 +07:00 [DBG] Start resource owner password token request validation
+2020-04-28 19:26:34.667 +07:00 [INF] Credentials validated for username: Administrator@oie.go.th
+2020-04-28 19:26:34.677 +07:00 [DBG] Resource owner password token request validation success.
+2020-04-28 19:26:34.694 +07:00 [INF] Token request validation success
+{
+  "ClientId": "OIE-WEB",
+  "GrantType": "password",
+  "Scopes": "offline_access OieApi openid profile roles",
+  "UserName": "Administrator@oie.go.th",
+  "Raw": {
+    "client_id": "OIE-WEB",
+    "grant_type": "password",
+    "username": "Administrator@oie.go.th",
+    "password": "***REDACTED***",
+    "scope": "OieApi offline_access openid profile roles"
+  }
+}
+2020-04-28 19:26:34.715 +07:00 [DBG] Getting claims for access token for client: OIE-WEB
+2020-04-28 19:26:34.720 +07:00 [DBG] Getting claims for access token for subject: 1
+2020-04-28 19:26:35.041 +07:00 [DBG] Creating refresh token
+2020-04-28 19:26:35.043 +07:00 [DBG] Setting a sliding lifetime: 1296000
+2020-04-28 19:26:35.096 +07:00 [DBG] NBpSTqDYQB8w6mNR2cqQSh27aKcKnJk9nuo+nGjJ+A0= not found in database
+2020-04-28 19:26:35.251 +07:00 [DBG] Token request success.
+2020-04-28 19:26:35.273 +07:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:4200
+2020-04-28 19:26:35.274 +07:00 [DBG] Client list checked and origin: http://localhost:4200 is allowed
+2020-04-28 19:26:35.276 +07:00 [DBG] CorsPolicyService allowed origin: http://localhost:4200
+2020-04-28 19:26:35.287 +07:00 [DBG] CORS request made for path: /connect/userinfo from origin: http://localhost:4200
+2020-04-28 19:26:35.289 +07:00 [DBG] Client list checked and origin: http://localhost:4200 is allowed
+2020-04-28 19:26:35.290 +07:00 [DBG] CorsPolicyService allowed origin: http://localhost:4200
+2020-04-28 19:26:35.293 +07:00 [DBG] Request path /connect/userinfo matched to endpoint type Userinfo
+2020-04-28 19:26:35.297 +07:00 [DBG] Endpoint enabled: Userinfo, successfully created handler: IdentityServer4.Endpoints.UserInfoEndpoint
+2020-04-28 19:26:35.298 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.UserInfoEndpoint for /connect/userinfo
+2020-04-28 19:26:35.305 +07:00 [DBG] Start userinfo request
+2020-04-28 19:26:35.309 +07:00 [DBG] Bearer token found in header
+2020-04-28 19:26:35.369 +07:00 [DBG] client configuration validation for client OIE-WEB succeeded.
+2020-04-28 19:26:35.376 +07:00 [DBG] client configuration validation for client OIE-WEB succeeded.
+2020-04-28 19:26:35.403 +07:00 [DBG] Calling into custom token validator: IdentityServer4.Validation.DefaultCustomTokenValidator
+2020-04-28 19:26:35.407 +07:00 [DBG] Token validation success
+{
+  "ValidateLifetime": true,
+  "AccessTokenType": "Jwt",
+  "ExpectedScope": "openid",
+  "Claims": {
+    "nbf": 1588076795,
+    "exp": 1588080395,
+    "iss": "http://localhost:5000",
+    "aud": [
+      "http://localhost:5000/resources",
+      "OieApi"
+    ],
+    "client_id": "OIE-WEB",
+    "sub": "1",
+    "auth_time": 1588076794,
+    "idp": "local",
+    "role": "Administrator",
+    "scope": [
+      "openid",
+      "profile",
+      "roles",
+      "OieApi",
+      "offline_access"
+    ],
+    "amr": "pwd"
+  }
+}
+2020-04-28 19:26:35.415 +07:00 [DBG] Creating userinfo response
+2020-04-28 19:26:35.419 +07:00 [DBG] Scopes in access token: openid profile roles OieApi offline_access
+2020-04-28 19:26:35.422 +07:00 [DBG] Scopes in access token: openid profile roles OieApi offline_access
+2020-04-28 19:26:35.425 +07:00 [DBG] Requested claim types: sub name family_name given_name middle_name nickname preferred_username profile picture website gender birthdate zoneinfo locale updated_at role
+2020-04-28 19:26:35.427 +07:00 [DBG] Scopes in access token: openid profile roles OieApi offline_access
+2020-04-28 19:26:35.496 +07:00 [INF] Profile service returned to the following claim types: sub family_name given_name role preferred_username name
+2020-04-28 19:26:35.497 +07:00 [DBG] End userinfo request
+2020-04-28 19:26:37.373 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:37.386 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.196 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.204 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.213 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.226 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.228 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/0/-543/0 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.259 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.261 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/0/-543/0 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:41.642 +07:00 [DBG] Request path /.well-known/openid-configuration matched to endpoint type Discovery
+2020-04-28 19:26:41.647 +07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryEndpoint
+2020-04-28 19:26:41.649 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryEndpoint for /.well-known/openid-configuration
+2020-04-28 19:26:41.654 +07:00 [DBG] Start discovery request
+2020-04-28 19:26:41.774 +07:00 [DBG] Request path /.well-known/openid-configuration/jwks matched to endpoint type Discovery
+2020-04-28 19:26:41.776 +07:00 [DBG] Endpoint enabled: Discovery, successfully created handler: IdentityServer4.Endpoints.DiscoveryKeyEndpoint
+2020-04-28 19:26:41.778 +07:00 [INF] Invoking IdentityServer endpoint: IdentityServer4.Endpoints.DiscoveryKeyEndpoint for /.well-known/openid-configuration/jwks
+2020-04-28 19:26:41.783 +07:00 [DBG] Start key discovery request
+2020-04-28 19:26:41.838 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:41.838 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:41.847 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:41.847 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:41.852 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:41.852 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:44.225 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/0 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:44.238 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/0 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:44.242 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:44.243 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:44.246 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:45.253 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:45.268 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:45.274 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:45.276 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:45.279 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:46.325 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:46.336 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:46.350 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:46.351 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:46.353 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:47.349 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:47.359 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIListForCal/8/2019/%E0%B8%81%E0%B8%A5%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%AD%E0%B8%B8%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:47.364 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:47.365 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:47.366 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:48.570 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:26:49.339 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:49.350 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:50.943 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:50.952 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:50.953 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:51.017 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:51.019 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:26:51.033 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:51.034 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:51.035 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:26:51.038 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:26:51.060 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:26:51.073 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:27:00.462 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:00.474 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:00.480 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:27:00.482 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:27:00.483 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:27:02.586 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2018 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:02.597 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2018 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:02.600 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:27:02.602 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:27:02.603 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:27:04.357 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2017 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:04.369 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2017 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:04.372 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:27:04.373 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:27:04.375 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:27:05.727 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:05.737 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:05.741 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:27:05.743 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:27:05.745 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:27:18.589 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:27:33.110 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.119 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.126 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.129 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.145 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.155 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.166 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.206 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.267 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:33.315 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.777 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.788 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.977 +07:00 [DBG] CORS request made for path: /api/Document/Download from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.985 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.991 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:41.994 +07:00 [DBG] CORS request made for path: /api/Document/Download from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:42.004 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:27:48.614 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:28:18.638 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:28:48.669 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:29:11.393 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.401 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.456 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.480 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.581 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.597 +07:00 [DBG] CORS request made for path: /api/Document/HomePage from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.629 +07:00 [DBG] CORS request made for path: /api/Setting/page/home from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.674 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.767 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.804 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.840 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.847 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.867 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:11.885 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:12.032 +07:00 [DBG] CORS request made for path: /api/report/4.0/2020/99 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:12.114 +07:00 [DBG] CORS request made for path: /api/report/2020/99/98 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:29:18.669 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:29:48.694 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:30:18.721 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:30:48.756 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:31:18.797 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:31:48.827 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:32:18.844 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:32:48.849 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:33:18.854 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:33:48.859 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:34:18.875 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:34:48.895 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:35:18.917 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:35:48.944 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:36:14.771 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:14.780 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:16.942 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:16.959 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:16.965 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:16.969 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:16.972 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:17.033 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:17.066 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:17.080 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:17.093 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:17.112 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:17.151 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:17.185 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:17.199 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:18.955 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:36:19.263 +07:00 [DBG] CORS request made for path: /api/pmi/PMICalculateSave/8/2019/1 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:19.270 +07:00 [DBG] CORS request made for path: /api/pmi/PMICalculateSave/8/2019/1 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:19.278 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:19.280 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:19.282 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:19.286 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:19.428 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:19.429 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:19.436 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:19.437 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:19.440 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:19.441 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:19.444 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:19.445 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:22.569 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:22.580 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIResultList/2019 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:22.583 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:22.585 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:22.587 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:32.731 +07:00 [DBG] CORS request made for path: /api/pmi/PMICalculateSave/8/2019/1 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.739 +07:00 [DBG] CORS request made for path: /api/pmi/PMICalculateSave/8/2019/1 from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.744 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:32.746 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:32.748 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:32.752 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:32.811 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.812 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.826 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.828 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:32.835 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:32.835 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:32.838 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:32.838 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:32.840 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:32.841 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:37.146 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.155 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.802 +07:00 [DBG] CORS request made for path: /api/setting/app-setting from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.809 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.826 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.863 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.889 +07:00 [DBG] CORS request made for path: /api/Setting/SaveCounter from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.934 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMICheckLatestMonthYear from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:37.994 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:38.025 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:38.041 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:38.051 +07:00 [DBG] CORS request made for path: /api/pmi/GetPMIVersionIndicator from origin: http://localhost:4200 but was ignored because path was not for an allowed IdentityServer CORS endpoint
+2020-04-28 19:36:38.089 +07:00 [INF] Successfully validated the token.
+2020-04-28 19:36:38.092 +07:00 [INF] AuthenticationScheme: BearerIdentityServerAuthenticationJwt was successfully authenticated.
+2020-04-28 19:36:38.099 +07:00 [INF] AuthenticationScheme: Bearer was successfully authenticated.
+2020-04-28 19:36:48.973 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:37:18.985 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:37:48.999 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:38:19.015 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:38:49.048 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:39:19.065 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:39:49.087 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:40:19.092 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:40:49.121 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:41:19.139 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:41:49.156 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:42:19.181 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:42:49.217 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:43:19.245 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:43:49.265 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:44:19.295 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:44:49.317 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:45:19.352 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:45:49.370 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:46:19.400 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:46:49.412 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:47:19.422 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:47:49.430 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:48:19.459 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:48:49.486 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:49:19.505 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:49:49.516 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:50:19.541 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:50:49.570 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:51:19.588 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:51:49.614 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:52:19.643 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:52:49.664 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:53:19.690 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:53:49.709 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:54:19.747 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:54:49.770 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:55:19.798 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:55:49.831 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:56:19.862 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:56:49.886 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:57:19.933 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:57:49.958 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:58:19.990 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:58:50.006 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:59:20.038 +07:00 [INF] Clearing 0 tokens
+2020-04-28 19:59:50.052 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:00:20.087 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:00:50.104 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:01:20.125 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:01:50.161 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:02:20.186 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:02:50.219 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:03:20.250 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:03:50.268 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:04:20.288 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:04:50.318 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:05:20.339 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:05:50.344 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:06:20.350 +07:00 [INF] Clearing 0 tokens
+2020-04-28 20:06:50.353 +07:00 [INF] Clearing 0 tokens
